@@ -1,1 +1,18 @@
-{}
+[
+    {
+        "name": "Aeromare",
+        "sets": [
+            "BS1-069",
+            "SD01-11",
+            "SD05-04"
+        ],
+        "founders": {
+            "image": "https://drive.google.com/image.png",
+            "text": "When you Ascend this Aeromare you can Cast it as an Artifact Empowering the Ascension with the effect \"The Empowered Elestral cannot be targeted or destroyed by an opponent's Elestral effect.\""
+        },
+        "first": {
+            "image": "https://drive.google.com/image.png",
+            "text": "When you Ascend this Aeromare you can Cast it from your Underworld as an Artifact Rune Empowering the Ascension with the effect \"The Empowered Elestral cannot be targeted or destroyed by opponents' Elestral effects.\""
+        }
+    }
+]
